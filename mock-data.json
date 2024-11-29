@@ -1,0 +1,902 @@
+[
+    {
+        "company": "Heller LLC",
+        "position": "Actuary",
+        "status": "interview",
+        "jobType": "part-time",
+        "jobLocation": "118 Reinke Pass",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-11-27T12:56:25Z"
+    },
+    {
+        "company": "Hoeger, Koepp and Mitchell",
+        "position": "Computer Systems Analyst IV",
+        "status": "pending",
+        "jobType": "part-time",
+        "jobLocation": "7 Dakota Point",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-12-30T04:45:51Z"
+    },
+    {
+        "company": "Wuckert, Kulas and Jacobs",
+        "position": "General Manager",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "17690 Schlimgen Circle",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-04-20T07:55:39Z"
+    },
+    {
+        "company": "Lakin-Mertz",
+        "position": "Pharmacist",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "16 East Pass",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-02-10T07:51:20Z"
+    },
+    {
+        "company": "Davis, Reinger and Predovic",
+        "position": "Financial Advisor",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "21931 Troy Alley",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-06-14T05:54:17Z"
+    },
+    {
+        "company": "Okuneva, Bergstrom and Farrell",
+        "position": "Occupational Therapist",
+        "status": "pending",
+        "jobType": "full-time",
+        "jobLocation": "657 Lawn Point",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-07-28T14:23:45Z"
+    },
+    {
+        "company": "Marks LLC",
+        "position": "Help Desk Technician",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "8540 Jenna Street",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-04-27T08:22:51Z"
+    },
+    {
+        "company": "Ledner and Sons",
+        "position": "Health Coach II",
+        "status": "declined",
+        "jobType": "remote",
+        "jobLocation": "5212 Drewry Center",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-08-14T18:55:48Z"
+    },
+    {
+        "company": "Lynch, Hammes and Bartell",
+        "position": "Environmental Tech",
+        "status": "pending",
+        "jobType": "full-time",
+        "jobLocation": "1 Duke Junction",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-07-28T14:37:02Z"
+    },
+    {
+        "company": "Ullrich-Schaefer",
+        "position": "Mechanical Systems Engineer",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "8628 Miller Crossing",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-09-13T13:08:22Z"
+    },
+    {
+        "company": "Wehner, Crooks and Lindgren",
+        "position": "Food Chemist",
+        "status": "pending",
+        "jobType": "remote",
+        "jobLocation": "12690 Barnett Street",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-06-09T01:10:03Z"
+    },
+    {
+        "company": "Crooks Group",
+        "position": "Nurse Practicioner",
+        "status": "pending",
+        "jobType": "part-time",
+        "jobLocation": "11 North Way",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-10-09T09:34:32Z"
+    },
+    {
+        "company": "Fay-Barton",
+        "position": "Account Executive",
+        "status": "interview",
+        "jobType": "full-time",
+        "jobLocation": "652 Blackbird Terrace",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-07-20T09:59:10Z"
+    },
+    {
+        "company": "King Group",
+        "position": "Account Representative III",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "7 Nova Hill",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-02-09T00:31:09Z"
+    },
+    {
+        "company": "Schuster Group",
+        "position": "Web Designer II",
+        "status": "declined",
+        "jobType": "internship",
+        "jobLocation": "1 Mcbride Parkway",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-01-04T02:47:53Z"
+    },
+    {
+        "company": "Sanford, Cole and Hermann",
+        "position": "Sales Representative",
+        "status": "declined",
+        "jobType": "internship",
+        "jobLocation": "76 Sunnyside Place",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-04-10T06:23:20Z"
+    },
+    {
+        "company": "Sanford-McCullough",
+        "position": "Actuary",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "3468 Pennsylvania Place",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-10-24T01:40:20Z"
+    },
+    {
+        "company": "Ondricka-Hamill",
+        "position": "Account Representative II",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "08224 Fallview Terrace",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-01-20T10:54:57Z"
+    },
+    {
+        "company": "Jacobson-Armstrong",
+        "position": "Sales Representative",
+        "status": "interview",
+        "jobType": "internship",
+        "jobLocation": "4 Carpenter Terrace",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-02-11T12:23:02Z"
+    },
+    {
+        "company": "Cartwright, Boyer and Kub",
+        "position": "Software Consultant",
+        "status": "interview",
+        "jobType": "full-time",
+        "jobLocation": "70308 Porter Drive",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-09-09T18:02:15Z"
+    },
+    {
+        "company": "Jenkins, Ward and Rohan",
+        "position": "Help Desk Technician",
+        "status": "pending",
+        "jobType": "remote",
+        "jobLocation": "05214 Wayridge Terrace",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-05-03T20:19:12Z"
+    },
+    {
+        "company": "Kunze, Mraz and Corkery",
+        "position": "Research Associate",
+        "status": "interview",
+        "jobType": "full-time",
+        "jobLocation": "04047 Katie Circle",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-11-04T22:23:00Z"
+    },
+    {
+        "company": "Stroman-Doyle",
+        "position": "Teacher",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "03249 Eastlawn Park",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-01-19T20:10:45Z"
+    },
+    {
+        "company": "Lynch-Watsica",
+        "position": "Business Systems Development Analyst",
+        "status": "declined",
+        "jobType": "full-time",
+        "jobLocation": "78 Maple Terrace",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-03-14T19:22:49Z"
+    },
+    {
+        "company": "Runte, Ward and Feil",
+        "position": "Mechanical Systems Engineer",
+        "status": "interview",
+        "jobType": "internship",
+        "jobLocation": "65 Dorton Court",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-11-09T07:09:19Z"
+    },
+    {
+        "company": "Batz, Lockman and Rice",
+        "position": "Web Developer II",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "20912 American Terrace",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-03-13T22:21:08Z"
+    },
+    {
+        "company": "Kuphal-Mueller",
+        "position": "Media Manager IV",
+        "status": "declined",
+        "jobType": "full-time",
+        "jobLocation": "8428 Hermina Street",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-05-08T04:07:33Z"
+    },
+    {
+        "company": "Mosciski-Hamill",
+        "position": "Payment Adjustment Coordinator",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "38197 Melby Hill",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-09-05T00:02:49Z"
+    },
+    {
+        "company": "Lubowitz LLC",
+        "position": "Biostatistician IV",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "352 Arkansas Park",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-07-07T18:10:40Z"
+    },
+    {
+        "company": "Casper LLC",
+        "position": "Engineer III",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "538 Lighthouse Bay Court",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-11-02T00:36:10Z"
+    },
+    {
+        "company": "Kassulke Group",
+        "position": "Accounting Assistant IV",
+        "status": "pending",
+        "jobType": "part-time",
+        "jobLocation": "6 Service Plaza",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-07-07T12:34:38Z"
+    },
+    {
+        "company": "Ernser, Hoeger and Grimes",
+        "position": "Compensation Analyst",
+        "status": "pending",
+        "jobType": "remote",
+        "jobLocation": "22 Straubel Pass",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-09-18T14:42:16Z"
+    },
+    {
+        "company": "Feeney-Kris",
+        "position": "Marketing Manager",
+        "status": "interview",
+        "jobType": "part-time",
+        "jobLocation": "11246 Michigan Place",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-12-13T23:12:15Z"
+    },
+    {
+        "company": "Marvin Inc",
+        "position": "Marketing Assistant",
+        "status": "declined",
+        "jobType": "full-time",
+        "jobLocation": "7 Rigney Hill",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-05-04T14:16:31Z"
+    },
+    {
+        "company": "Cartwright Inc",
+        "position": "Computer Systems Analyst IV",
+        "status": "pending",
+        "jobType": "remote",
+        "jobLocation": "30 Dawn Park",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-05-05T21:05:24Z"
+    },
+    {
+        "company": "Sipes, Carroll and Heaney",
+        "position": "Graphic Designer",
+        "status": "interview",
+        "jobType": "full-time",
+        "jobLocation": "28 Thompson Street",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-04-25T17:08:17Z"
+    },
+    {
+        "company": "Hansen-Bahringer",
+        "position": "Internal Auditor",
+        "status": "declined",
+        "jobType": "internship",
+        "jobLocation": "0015 Homewood Park",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-05-08T06:50:26Z"
+    },
+    {
+        "company": "Boehm, Predovic and Bruen",
+        "position": "Senior Sales Associate",
+        "status": "declined",
+        "jobType": "remote",
+        "jobLocation": "92599 John Wall Center",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-01-23T13:46:37Z"
+    },
+    {
+        "company": "Marvin, Kuvalis and Rippin",
+        "position": "Research Nurse",
+        "status": "interview",
+        "jobType": "full-time",
+        "jobLocation": "982 Truax Road",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-05-03T20:56:20Z"
+    },
+    {
+        "company": "Streich LLC",
+        "position": "Research Assistant IV",
+        "status": "pending",
+        "jobType": "part-time",
+        "jobLocation": "7 Bluejay Court",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-10-13T18:37:15Z"
+    },
+    {
+        "company": "Farrell Group",
+        "position": "Engineer III",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "38642 Blaine Hill",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-01-24T08:23:25Z"
+    },
+    {
+        "company": "Pfeffer, Conn and Olson",
+        "position": "Media Manager IV",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "4167 Barby Junction",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-03-16T17:07:18Z"
+    },
+    {
+        "company": "Smitham and Sons",
+        "position": "Internal Auditor",
+        "status": "interview",
+        "jobType": "full-time",
+        "jobLocation": "7555 Beilfuss Point",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-05-03T22:37:07Z"
+    },
+    {
+        "company": "O'Kon-Moen",
+        "position": "Programmer I",
+        "status": "pending",
+        "jobType": "part-time",
+        "jobLocation": "2471 Continental Pass",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-05-20T17:57:00Z"
+    },
+    {
+        "company": "Price-Heathcote",
+        "position": "Assistant Media Planner",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "417 Haas Drive",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-02-13T03:56:52Z"
+    },
+    {
+        "company": "Price, Walter and Durgan",
+        "position": "Civil Engineer",
+        "status": "interview",
+        "jobType": "part-time",
+        "jobLocation": "62 Hanover Trail",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-07-27T17:02:40Z"
+    },
+    {
+        "company": "Oberbrunner-Trantow",
+        "position": "Research Assistant I",
+        "status": "interview",
+        "jobType": "part-time",
+        "jobLocation": "3781 Oakridge Lane",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-06-03T03:22:24Z"
+    },
+    {
+        "company": "Kuhlman LLC",
+        "position": "Pharmacist",
+        "status": "declined",
+        "jobType": "remote",
+        "jobLocation": "8430 Basil Alley",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-02-24T07:22:32Z"
+    },
+    {
+        "company": "McKenzie, Schuster and Sawayn",
+        "position": "Systems Administrator I",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "8916 Ridge Oak Plaza",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2022-12-21T07:30:53Z"
+    },
+    {
+        "company": "Kshlerin LLC",
+        "position": "Cost Accountant",
+        "status": "interview",
+        "jobType": "full-time",
+        "jobLocation": "3 John Wall Place",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2022-12-21T05:41:17Z"
+    },
+    {
+        "company": "Grant-Hartmann",
+        "position": "Programmer I",
+        "status": "declined",
+        "jobType": "full-time",
+        "jobLocation": "2 Havey Alley",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-07-04T21:39:03Z"
+    },
+    {
+        "company": "Cole, Gutmann and Wisoky",
+        "position": "Database Administrator II",
+        "status": "interview",
+        "jobType": "internship",
+        "jobLocation": "64 Rigney Center",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-04-24T11:17:47Z"
+    },
+    {
+        "company": "Kuvalis, Ankunding and Breitenberg",
+        "position": "Quality Engineer",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "8420 Knutson Way",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-05-18T18:23:09Z"
+    },
+    {
+        "company": "Frami, Ratke and Trantow",
+        "position": "Account Representative IV",
+        "status": "declined",
+        "jobType": "internship",
+        "jobLocation": "0886 Scott Road",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-08-11T16:03:37Z"
+    },
+    {
+        "company": "Kulas LLC",
+        "position": "Help Desk Technician",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "797 Eggendart Junction",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-03-02T04:34:46Z"
+    },
+    {
+        "company": "Kozey, Hudson and Kihn",
+        "position": "VP Quality Control",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "8578 Alpine Terrace",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-09-17T15:57:31Z"
+    },
+    {
+        "company": "Ferry-Morar",
+        "position": "Data Coordinator",
+        "status": "interview",
+        "jobType": "part-time",
+        "jobLocation": "45663 Westend Street",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-08-17T23:09:30Z"
+    },
+    {
+        "company": "VonRueden, Kilback and Collins",
+        "position": "Budget/Accounting Analyst II",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "11 Ridgeway Drive",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-05-30T09:53:00Z"
+    },
+    {
+        "company": "Hagenes Group",
+        "position": "Pharmacist",
+        "status": "interview",
+        "jobType": "part-time",
+        "jobLocation": "4 Tennyson Lane",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-02-21T23:38:12Z"
+    },
+    {
+        "company": "Padberg Inc",
+        "position": "Safety Technician II",
+        "status": "declined",
+        "jobType": "full-time",
+        "jobLocation": "3 Monument Junction",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-12-07T17:56:01Z"
+    },
+    {
+        "company": "O'Connell Inc",
+        "position": "General Manager",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "9 Barnett Plaza",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-07-17T11:27:58Z"
+    },
+    {
+        "company": "Ankunding, Halvorson and Champlin",
+        "position": "Programmer Analyst II",
+        "status": "interview",
+        "jobType": "part-time",
+        "jobLocation": "3408 Maywood Crossing",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-07-19T14:10:25Z"
+    },
+    {
+        "company": "Marquardt-Schmeler",
+        "position": "Programmer Analyst I",
+        "status": "pending",
+        "jobType": "full-time",
+        "jobLocation": "48 Roth Parkway",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-03-11T02:17:41Z"
+    },
+    {
+        "company": "Schimmel-Cummerata",
+        "position": "General Manager",
+        "status": "declined",
+        "jobType": "internship",
+        "jobLocation": "268 Gateway Road",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-08-06T10:59:00Z"
+    },
+    {
+        "company": "Roberts LLC",
+        "position": "Administrative Officer",
+        "status": "pending",
+        "jobType": "part-time",
+        "jobLocation": "6 Hintze Alley",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-12-29T13:14:11Z"
+    },
+    {
+        "company": "Mann-Murazik",
+        "position": "Financial Analyst",
+        "status": "pending",
+        "jobType": "remote",
+        "jobLocation": "6170 La Follette Place",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-02-22T05:28:52Z"
+    },
+    {
+        "company": "Pacocha-Steuber",
+        "position": "Help Desk Operator",
+        "status": "interview",
+        "jobType": "internship",
+        "jobLocation": "464 Crownhardt Court",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-08-20T10:03:17Z"
+    },
+    {
+        "company": "Ledner LLC",
+        "position": "Staff Accountant IV",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "8709 Anhalt Park",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-07-17T14:37:21Z"
+    },
+    {
+        "company": "Fadel and Sons",
+        "position": "Senior Cost Accountant",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "673 Sycamore Avenue",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-03-09T22:08:08Z"
+    },
+    {
+        "company": "Daugherty, Cronin and Mante",
+        "position": "General Manager",
+        "status": "pending",
+        "jobType": "remote",
+        "jobLocation": "0 Sundown Circle",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-09-22T17:07:42Z"
+    },
+    {
+        "company": "Bernier Inc",
+        "position": "VP Quality Control",
+        "status": "pending",
+        "jobType": "remote",
+        "jobLocation": "3033 Merrick Street",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2022-12-26T01:00:20Z"
+    },
+    {
+        "company": "Wilkinson Inc",
+        "position": "Cost Accountant",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "1787 Hagan Plaza",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-04-09T23:54:45Z"
+    },
+    {
+        "company": "Mayer-DuBuque",
+        "position": "Occupational Therapist",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "23 Clove Junction",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-08-09T08:05:32Z"
+    },
+    {
+        "company": "Crooks LLC",
+        "position": "Senior Sales Associate",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "54160 Hoepker Circle",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-04-15T18:56:44Z"
+    },
+    {
+        "company": "Smith, Denesik and Nader",
+        "position": "Actuary",
+        "status": "declined",
+        "jobType": "part-time",
+        "jobLocation": "3 Lunder Parkway",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-12-14T14:23:26Z"
+    },
+    {
+        "company": "Connelly, Kris and Bernhard",
+        "position": "Help Desk Technician",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "37631 Holy Cross Pass",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-12-20T08:36:05Z"
+    },
+    {
+        "company": "Johnson LLC",
+        "position": "Senior Financial Analyst",
+        "status": "declined",
+        "jobType": "full-time",
+        "jobLocation": "193 Schurz Way",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-08-17T10:05:01Z"
+    },
+    {
+        "company": "Treutel, Senger and Deckow",
+        "position": "Senior Cost Accountant",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "811 Fulton Parkway",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-11-05T09:01:52Z"
+    },
+    {
+        "company": "Adams, Klein and Kshlerin",
+        "position": "Software Consultant",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "8562 Troy Pass",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-12-12T18:20:30Z"
+    },
+    {
+        "company": "Schoen-King",
+        "position": "Financial Advisor",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "81885 Rusk Road",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-09-30T05:20:58Z"
+    },
+    {
+        "company": "Kilback and Sons",
+        "position": "Engineer IV",
+        "status": "interview",
+        "jobType": "internship",
+        "jobLocation": "1633 Helena Pass",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-07-04T15:13:22Z"
+    },
+    {
+        "company": "Rice, Pfannerstill and Heathcote",
+        "position": "Mechanical Systems Engineer",
+        "status": "pending",
+        "jobType": "remote",
+        "jobLocation": "0763 Becker Hill",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-03-05T00:29:07Z"
+    },
+    {
+        "company": "Wunsch Inc",
+        "position": "Registered Nurse",
+        "status": "interview",
+        "jobType": "internship",
+        "jobLocation": "57 Eagan Circle",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-01-18T11:30:07Z"
+    },
+    {
+        "company": "Purdy-Casper",
+        "position": "Help Desk Operator",
+        "status": "interview",
+        "jobType": "full-time",
+        "jobLocation": "36 Lakewood Gardens Point",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-04-04T03:08:25Z"
+    },
+    {
+        "company": "Bogisich Inc",
+        "position": "VP Quality Control",
+        "status": "interview",
+        "jobType": "part-time",
+        "jobLocation": "469 Sycamore Alley",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-02-04T22:35:22Z"
+    },
+    {
+        "company": "Kautzer-Ryan",
+        "position": "Desktop Support Technician",
+        "status": "pending",
+        "jobType": "full-time",
+        "jobLocation": "7 Marcy Street",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-04-21T16:13:03Z"
+    },
+    {
+        "company": "Rath-Block",
+        "position": "Health Coach III",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "930 Red Cloud Trail",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-06-25T01:58:54Z"
+    },
+    {
+        "company": "Johnson, Simonis and Reinger",
+        "position": "Cost Accountant",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "4 Merry Avenue",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-11-22T20:37:19Z"
+    },
+    {
+        "company": "Denesik, Gleason and Koelpin",
+        "position": "Senior Financial Analyst",
+        "status": "interview",
+        "jobType": "remote",
+        "jobLocation": "232 Dixon Way",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-11-22T21:37:14Z"
+    },
+    {
+        "company": "Smitham Inc",
+        "position": "Administrative Assistant I",
+        "status": "declined",
+        "jobType": "full-time",
+        "jobLocation": "998 Claremont Court",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-11-27T22:05:06Z"
+    },
+    {
+        "company": "Luettgen LLC",
+        "position": "Registered Nurse",
+        "status": "declined",
+        "jobType": "remote",
+        "jobLocation": "05 Sutteridge Center",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-02-02T23:32:48Z"
+    },
+    {
+        "company": "Kling Group",
+        "position": "Software Consultant",
+        "status": "interview",
+        "jobType": "part-time",
+        "jobLocation": "4 Duke Park",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-04-11T22:38:03Z"
+    },
+    {
+        "company": "Abshire Inc",
+        "position": "Graphic Designer",
+        "status": "declined",
+        "jobType": "internship",
+        "jobLocation": "37712 Judy Court",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-10-17T10:23:27Z"
+    },
+    {
+        "company": "Ferry-Stokes",
+        "position": "Automation Specialist III",
+        "status": "declined",
+        "jobType": "remote",
+        "jobLocation": "28 Kings Pass",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-07-02T10:32:20Z"
+    },
+    {
+        "company": "Bartell Inc",
+        "position": "Compensation Analyst",
+        "status": "pending",
+        "jobType": "full-time",
+        "jobLocation": "4694 Veith Place",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-09-02T17:19:36Z"
+    },
+    {
+        "company": "Beer and Sons",
+        "position": "VP Marketing",
+        "status": "interview",
+        "jobType": "internship",
+        "jobLocation": "34065 Redwing Terrace",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-11-08T03:31:33Z"
+    },
+    {
+        "company": "Halvorson Inc",
+        "position": "Marketing Manager",
+        "status": "declined",
+        "jobType": "internship",
+        "jobLocation": "30603 Nevada Parkway",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-07-24T21:28:00Z"
+    },
+    {
+        "company": "Pfeffer-Barton",
+        "position": "Junior Executive",
+        "status": "pending",
+        "jobType": "internship",
+        "jobLocation": "988 Marcy Hill",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2023-04-22T11:42:56Z"
+    },
+    {
+        "company": "Berge, Nikolaus and Paucek",
+        "position": "Senior Editor",
+        "status": "interview",
+        "jobType": "full-time",
+        "jobLocation": "26 Eastwood Trail",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-05-01T18:13:43Z"
+    },
+    {
+        "company": "Gulgowski and Sons",
+        "position": "Mechanical Systems Engineer",
+        "status": "declined",
+        "jobType": "internship",
+        "jobLocation": "2595 Bluestem Circle",
+        "createdBy": "67493646416a5a90ff0b732f",
+        "createdAt": "2024-05-30T18:48:50Z"
+    }
+]
