@@ -166,8 +166,6 @@ const showStats = async ( req, res ) =>
       .format( 'MMMM YYYY' );
     return { date, count };
   } )
-  console.log( monthlyApplications );
-
   res.status( StatusCodes.OK ).json( { defaultStats, monthlyApplications } );
 };
 
